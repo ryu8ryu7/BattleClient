@@ -60,3 +60,9 @@ crashlytics-build.properties
 
 Assets/SurvivalResources/
 Assets/SurvivalResources.meta
+
+Assets/MotionResources/
+Assets/MotionResources.meta
+
+Assets/Scripts/GameSystem/
+Assets/Scripts/GameSystem.meta
