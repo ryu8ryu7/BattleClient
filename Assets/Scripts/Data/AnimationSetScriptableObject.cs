@@ -16,6 +16,7 @@ public class AnimationSet
     public class ClipSet
     {
         public AnimationClip AnimationClip = null;
+        public bool IsLoopMotion = false;
         public bool IsApplyRootMotion = false;
         public bool IsMoveManual = false;
         public float MoveManualSpeed = 0.1f;
@@ -52,6 +53,10 @@ public class AnimationSetScriptableObject : ScriptableObject
         HandGun_Shot03,
 
         HandGun_Cover01,
+
+        Fighting_Combo01,
+        Fighting_Combo02,
+        Fighting_Combo03,
     }
 
     /// <summary>
