@@ -16,7 +16,7 @@ MonoBehaviour:
   - Label: 1
     IsLoopMotion: 0
     ClipSetArray:
-    - AnimationClip: {fileID: 7400000, guid: 4c48d95fc2cebd148975554912a54802, type: 2}
+    - AnimationClip: {fileID: 7400000, guid: fd205c4dee6128e429fcec956e50fb95, type: 2}
       IsLoopMotion: 1
       IsApplyRootMotion: 0
       IsMoveManual: 0
@@ -30,7 +30,7 @@ MonoBehaviour:
   - Label: 8
     IsLoopMotion: 0
     ClipSetArray:
-    - AnimationClip: {fileID: 7400000, guid: 3ff1461b8e6f9d94db428481caeb7906, type: 2}
+    - AnimationClip: {fileID: 7400000, guid: c5023035e6e0f8c48b73b944c60cbd05, type: 2}
       IsLoopMotion: 0
       IsApplyRootMotion: 0
       IsMoveManual: 0
